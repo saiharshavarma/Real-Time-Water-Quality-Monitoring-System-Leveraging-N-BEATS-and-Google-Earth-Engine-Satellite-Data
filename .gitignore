@@ -1,0 +1,6 @@
+node_modules/
+.env
+.private-key.json
+file.json
+serviceAccountKey.json
+tirtham_env/
